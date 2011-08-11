@@ -16,7 +16,7 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:https://github.com/panter/org.vaadin.mvp</connection>
+    <connection>scm:git:https://saadp@github.com/saadp/org.vaadin.mvp.git</connection>
   </scm>
 
   <distributionManagement>
@@ -48,7 +48,7 @@
     <logback.version>0.9.24</logback.version>
     <vaadin.version>6.4.0</vaadin.version>
     <beanutils.version>1.8.3</beanutils.version>
-    <spring.version>3.0.2.RELEASE</spring.version>
+    <spring.version>3.0.5.RELEASE</spring.version>
     <junit.version>4.8.1</junit.version>
     <easymock.version>3.0</easymock.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
